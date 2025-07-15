@@ -96,8 +96,8 @@ python word_counter_gui.py
 
 
 ## Project2
-```
-# 📝 Word Counter – Tkinter GUI Application
+
+📝 Word Counter – Tkinter GUI Application
 
 A simple desktop application built using Python and Tkinter that allows users to input text and view the word count with a click.
 
